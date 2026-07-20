@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0217-contains-duplicate) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -51,5 +52,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 <!---LeetCode Topics End-->
