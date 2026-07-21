@@ -28,6 +28,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0021-merge-two-sorted-lists) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sohail06md/leet_code_problem_solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
