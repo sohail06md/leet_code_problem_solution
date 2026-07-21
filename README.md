@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0217-contains-duplicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sohail06md/leet_code_problem_solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -72,4 +73,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
