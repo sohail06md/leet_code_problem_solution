@@ -11,6 +11,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0035-search-insert-position) |
 | [0217-contains-duplicate](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0217-contains-duplicate) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sohail06md/leet_code_problem_solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -61,6 +62,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0035-search-insert-position) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sohail06md/leet_code_problem_solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Matrix
 |  |
