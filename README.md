@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0231-power-of-two) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Binary Search
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
