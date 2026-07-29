@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0231-power-of-two) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
