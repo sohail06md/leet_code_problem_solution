@@ -17,6 +17,7 @@
 | [0088-merge-sorted-array](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0219-contains-duplicate-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/sohail06md/leet_code_problem_solution/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -27,6 +28,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0219-contains-duplicate-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/sohail06md/leet_code_problem_solution/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Sorting
@@ -114,4 +116,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0191-number-of-1-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
