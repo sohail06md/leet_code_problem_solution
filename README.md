@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0035-search-insert-position) |
@@ -26,6 +27,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sohail06md/leet_code_problem_solution/tree/master/0219-contains-duplicate-ii) |
